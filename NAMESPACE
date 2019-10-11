@@ -1,0 +1,4 @@
+export(LRPower, LRPowerSimulation)
+import(survival, survminer)
+importFrom("stats", "na.omit", "pchisq")
+importFrom("stats", "rbinom", "rnbinom")
